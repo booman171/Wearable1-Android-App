@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">W1</string>
+    <string name="title_activity_test">test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="bg">#C0C0C0</color>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="scan_button">Scan</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="no_data">xx</string>
+    <string name="no_battery_level">-- %</string>
+    <string name="battery_icon">battery icon</string>
+    <string name="connect_button">Connect to device with index:</string>
+    <string name="connection_success">Successful</string>
+    <string name="connection_failure">Failed</string>
+    <string name="input_index">0</string>
+    <string name="battery_value">%1$s %%</string>
+    <string name="no_name">No name</string>
+    <string name="connect_pi">Connect Pi</string>
+    <string name="connect_metawear">Connect Metawear</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="gps">GPS</string>
+    <string name="imu">IMU</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="record">Record</string>
+    <string name="title_reconnect_attempt">Reconnecting</string>
+    <string name="message_wait">Please wait</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="title_connecting">Connecting</string>
+    <string name="todo">TODO</string>
+    <string name="AVISO_NOT_LIST">needs access to notifications for it to work and demonstration effects.  NDo you want to enable the reading of notifications?</string>
+
+</resources>
